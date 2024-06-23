@@ -1,6 +1,6 @@
-# Study Notion
+# TechGrasp
 
-Study Notion is an ED Tech (Education Technology) web application developed using the MERN stack.
+TechGrasp is an ED Tech (Education Technology) web application developed using the MERN stack.
 
 ## Note
 
@@ -10,14 +10,14 @@ This project is intended as a learning tool and can be used as a sample project 
 ***
 ## Features
 
-* User Authentication: Study Notion provides secure user registration and authentication using JWT (JSON Web Tokens). Users can sign up, log in, and manage their 
+* User Authentication: TechGrasp provides secure user registration and authentication using JWT (JSON Web Tokens). Users can sign up, log in, and manage their 
   profiles with ease.
   
 * Courses and Lessons: Instructors can create and edit created courses. Students can enroll in courses, access course materials, and track their progress.
 * Progress Tracking: Study Notion allows students to track their progress in enrolled courses. They can view completed lessons, scores on quizzes and 
   assignments, and overall course progress.
   
-* Payment Integration: Study Notion integrates with Razorpay for payment processing. Users can make secure payments for course enrollment and other services 
+* Payment Integration: TechGrasp integrates with Razorpay for payment processing. Users can make secure payments for course enrollment and other services 
   using various payment methods supported by Razorpay.
   
 * Search Functionality: Users can easily search for courses, lessons, and resources using the built-in search feature. This makes it convenient to find relevant 
@@ -29,15 +29,6 @@ This project is intended as a learning tool and can be used as a sample project 
 
   
 ***
-## Screenshots
-![Screenshot 2023-07-25 210844](https://github.com/himanshu8443/Study-Notion-master/assets/99420590/0cba8d5b-6a47-4721-ac9f-4279107c257e)
-![Screenshot 2023-07-25 211309](https://github.com/himanshu8443/Study-Notion-master/assets/99420590/62c33b56-0bd5-4330-b1db-d41b80d9f69f)
-<details>
-  <summary>More screenshots</summary>
-  
-![Screenshot 2023-07-25 211451](https://github.com/himanshu8443/Study-Notion-master/assets/99420590/63f7163d-a74a-4e78-bc78-6b96b06073f9)
-![image](https://github.com/himanshu8443/Study-Notion-master/assets/99420590/59d1d8c2-2824-45bb-a2f7-6f5dc234895c)
-</details>
 
 ***
 
@@ -51,7 +42,7 @@ This project is intended as a learning tool and can be used as a sample project 
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/himanshu8443/Study-Notion-master.git
+    https://github.com/rohit3716/TechGrasp2.0.git
     ```
 
 2. Install the required packages.
